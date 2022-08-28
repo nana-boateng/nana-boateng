@@ -1,7 +1,7 @@
 ### Hi, I'm **nana**. 👋
 
 - 🔭 I’m currently working on: Full Stack Web Development
-- 🌱 I’m currently learning: NextJS and Fastify
+- 🌱 I’m currently learning: Rust
 - 💬 Ask me about: ReactJS!
 - 📫 How to reach me: via email - nana.boateng@queensu.ca
 - 😄 Pronouns: he/him
